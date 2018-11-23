@@ -1,2 +1,2 @@
 # test-git-author-rewrite
-This repository is created with the intention to use it as an example of rewriting the commit log to replace an email.
+This repository is created with the intention to use it as an example of rewriting the commit log to replace an email as demonstrated with https://stackoverflow.com/posts/53439187. This is useful when one does not wish to publicly disclose one's private email, but may accidentally do so when committing to a project without first [changing one's GitHub public email address](https://github.com/settings/emails).
